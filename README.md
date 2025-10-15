@@ -61,4 +61,4 @@ ChartScanAI represents a significant advancement in the automated analysis of fi
 Acknowledgments go to the authors of the original research article for their groundbreaking work, which served as the inspiration for this project. Additionally, thanks to the creators of the `yfinance`, `mplfinance`, and `Roboflow` tools for their invaluable resources. 
 
 ## Disclaimer
-**Important:** ChartScanAI is intended to be used as an informational tool only and should not be considered financial advice. Users are advised to use this tool in conjunction with their own research and professional financial advice.
+**Important:** ChartScanAI is intended to be used as an informational tool only and should not be considered financial advice. Users are advised to use this tool in conjunction with their own research and professional financial advice."# CharScanAi" 
